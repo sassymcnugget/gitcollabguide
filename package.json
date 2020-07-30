@@ -1,0 +1,23 @@
+{
+  "name": "gitcollabguide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sassymcnugget/gitcollabguide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sassymcnugget/gitcollabguide/issues"
+  },
+  "homepage": "https://github.com/sassymcnugget/gitcollabguide#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  }
+}
